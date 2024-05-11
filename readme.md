@@ -4,9 +4,11 @@
 
 ## 开发
 
-- 下载此项目
+- Fork 本项目
 - 在 preload.js 中编写逻辑即可
-- 系统 api 文档可参考 https://wll8.github.io/sys-shim-doc/
+- 提交 PR
+
+系统 api 文档可参考 https://wll8.github.io/sys-shim-doc/
 
 ## 使用
 
